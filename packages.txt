@@ -1,0 +1,15 @@
+apache2
+apache2-doc
+apache2-utils
+apache2.2-common
+apache2-mpm-prefork
+apache2-prefork-dev
+libapr1
+libaprutil1
+libpq5
+libaprutil1-dev
+libapr1-dev
+libexpat1
+ssl-cert
+lynx
+elinks
